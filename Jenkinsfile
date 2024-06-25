@@ -5,7 +5,7 @@ pipeline {
         // Set email addresses for notification
         RECIPIENTS = 'estheronyinye011@gmail.com, danielofurutech@gmail.com, goodnessm508@gmail.com, guddytechs@gmail.com, ijeonyinye22@gmail'
         SENDER = 'estheronyinye011@gmail.com'
-    } 
+    }
 
     stages {
         stage('Build') {
